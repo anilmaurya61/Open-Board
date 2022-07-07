@@ -1,5 +1,5 @@
 # Open-Board
-This is a real time drawing application. Where users can mutually design some on a same board at same time irrespective of their locations. If I talked about the features of this application then it can draw, erase things having undo/redo feature, there is sticky notes in this, notes can be in the form of text or Imagesand after completion of board users can download it to save.
+This is a real time drawing application. Where users can mutually design some on a same board at same time irrespective of their locations. If I talked about the features of this application then it can draw, erase things having undo/redo feature, there is sticky notes in this, notes can be in the form of text or Images and after completion of board users can download it to save.
 
 Technologies used in this are socket.io, Express(server) and DOM Methods.
 
